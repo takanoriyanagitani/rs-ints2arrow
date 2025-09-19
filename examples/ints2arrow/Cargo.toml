@@ -1,0 +1,12 @@
+[package]
+name = "ints2arrow"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies.rs-ints2arrow]
+path = "../.."
+default-features = false
+features = [
+	"sync",
+	"fs",
+]
