@@ -3,6 +3,13 @@ name = "rs-ints2arrow"
 version = "0.1.0"
 edition = "2024"
 
+description = "Convert integers to an Arrow array."
+license = "Apache-2.0"
+repository = "https://github.com/takanoriyanagitani/rs-ints2arrow"
+homepage = "https://github.com/takanoriyanagitani/rs-ints2arrow"
+documentation = "https://docs.rs/rs-ints2arrow/latest"
+keywords = ["integers", "arrow", "raw", "binary", "convert"]
+
 [lints.rust]
 unsafe_code = "forbid"
 
